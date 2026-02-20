@@ -1,4 +1,6 @@
 # Parallels-RAS-V22-Doc-Script
+THIS IS A PLACEHOLDER UNTIL RAS V22 IS RELEASED.
+
 Documentation script for Parallels RAS V22
 
 Creates a complete inventory of a V22 Parallels Remote Application Server (RAS) using Microsoft PowerShell, Word, plain text, or HTML.
